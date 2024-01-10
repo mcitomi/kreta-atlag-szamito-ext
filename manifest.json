@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Kréta Átlag Számító",
+  "description": "Kréta összesített átlag Számító. by mcitomi. Last update: 23.05.18",
+  "icons": {
+    "16": "img/logo16.png",
+    "32": "img/logo32.png",
+    "48": "img/logo48.png",
+    "128": "img/logo128.png"
+  },
+  "version": "1.0.2",
+  "host_permissions": [
+    "http://*/*", "https://*/*"
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'; script-src-elem 'self' 'unsafe-inline' https://api.mcitomi.hu/;"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.e-kreta.hu/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ]
+}
