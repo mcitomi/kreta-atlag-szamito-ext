@@ -24,5 +24,6 @@ function write(elements) {
         } 
     }
     display.item(0).children[display.item(0).childElementCount - 2].textContent = `${(sum / db).toFixed(2)}`;
+    
     console.log("[mcitomi] Átlag kiszámolva.");
 }
