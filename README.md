@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/0tNjVzz.png" style="width: 800px;">
 
 <p>
-✅ Last update: 2023.05.18. <br>
-🍰 Last check: 2024.01.10.
+✅ Last update: 2024.03.27. <br>
+🍰 Last check: 2024.03.27.
 </p>
 
 <h3>Install:</h3>
