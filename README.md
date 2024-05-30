@@ -2,8 +2,7 @@
 <img src="https://i.imgur.com/0tNjVzz.png" style="width: 800px;">
 
 <p>
-✅ Last update: 2024.03.27. <br>
-🍰 Last check: 2024.03.27.
+if you have any questions or problems contact me on discord: @mcitomi or <a href="https://dc.mcitomi.hu/" target="_blank">dc.mcitomi.hu</a>
 </p>
 
 <h3>Install:</h3>
